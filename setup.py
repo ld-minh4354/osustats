@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'Statistics for osu! tournaments'
 LONG_DESCRIPTION = 'A package to calculate a wide range of statistics for osu! tournaments, both qualifiers and stage matches'
 
@@ -21,7 +21,6 @@ setup(
     keywords=['python', 'osu!', 'stats', 'statistics'],
     classifiers=[
         "Development Status :: 1 - Planning",
-        "Intended Audience :: osu! Statisticians",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",

@@ -1,1 +1,1 @@
-from main import osuStats
+from .main import osuStats
