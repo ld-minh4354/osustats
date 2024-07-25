@@ -1,6 +1,6 @@
 import pandas as pd
 import os, time
-from helpers import *
+from .helpers import *
 from multiprocessing import Pool
 
 
